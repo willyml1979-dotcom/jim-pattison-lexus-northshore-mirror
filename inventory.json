@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Lexus Northshore",
-  "generated_at": "2026-09-26T12:35:18",
+  "generated_at": "2026-10-08T14:39:09",
   "vehicle_count": 84,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,13 +20,16 @@
       "year": 2013,
       "make": "Lexus",
       "model": "ES 300h CVT Legendary Lexus Reliability Meets Incredi",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Rogue SL AWD CVT / SL AWD / No Accident / Local Car / On",
       "vin": "5N1AT2MV8LC706774",
       "stock": "UL26613",
       "color": "Blue",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/adcf1b24eec9.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2020/nissan/rogue/north-vancouver/bc/71395626/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2020/nissan/rogue/north-vancouver/bc/71395626/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +39,17 @@
       "odometer_km": 63852,
       "year": 2020,
       "make": "Nissan",
-      "model": "Rogue SL AWD CVT / SL AWD / No Accident / Local Car / On",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Corolla Sedan 4-door Sedan LE CVT The Gold Standard of Dependabi",
       "vin": "5YFBPRBE6LP124821",
       "stock": "UL26580",
       "color": "Grey",
+      "trim": "LE The Gold Standard of Dependabi",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/ccbb3bc147d7.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2020/toyota/corolla-sedan/north-vancouver/bc/71233187/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2020/toyota/corolla-sedan/north-vancouver/bc/71233187/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +59,17 @@
       "odometer_km": 30606,
       "year": 2020,
       "make": "Toyota",
-      "model": "Corolla Sedan 4-door Sedan LE CVT The Gold Standard of Dependabi",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru WRX 4Dr Sport-Tech 6sp Fresh Arrival! 2022 Subaru WRX",
       "vin": "JF1VBAL65N9002941",
       "stock": "UL26628",
       "color": "White",
+      "trim": "Sport-Tech 6sp Fresh Arrival",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/c6159d87d554.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2022/subaru/wrx/north-vancouver/bc/71292093/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2022/subaru/wrx/north-vancouver/bc/71292093/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +79,17 @@
       "odometer_km": 88018,
       "year": 2022,
       "make": "Subaru",
-      "model": "WRX 4Dr Sport-Tech 6sp Fresh Arrival! 2022 Subaru WRX",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas Cross Sport Highline 2.0T 8sp at w/Tip 4MOTION Sleek Euro Desi",
       "vin": "1V2BC2CA0NC211624",
       "stock": "UL26490",
       "color": "White",
+      "trim": "Highline 2.0T 8sp at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/7fb6f3ad4f65.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2022/volkswagen/atlas-cross-sport/north-vancouver/bc/71259999/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2022/volkswagen/atlas-cross-sport/north-vancouver/bc/71259999/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,8 +99,10 @@
       "odometer_km": 65698,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 2.0T 8sp at w/Tip 4MOTION Sleek Euro Desi",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus UX 250h AWD The Ultimate Urban Commuter: Certified 20",
@@ -105,13 +119,16 @@
       "year": 2023,
       "make": "Lexus",
       "model": "UX 250h AWD The Ultimate Urban Commuter: Certified 20",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX Platinum Elite SH-AWD / Platinum Elite / Local Car",
       "vin": "5J8YE1H84RL800916",
       "stock": "UL26054",
       "color": "White",
+      "trim": "Platinum Elite SH",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/431899546eae.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2024/acura/mdx/north-vancouver/bc/71395631/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2024/acura/mdx/north-vancouver/bc/71395631/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +138,17 @@
       "odometer_km": 63107,
       "year": 2024,
       "make": "Acura",
-      "model": "MDX Platinum Elite SH-AWD / Platinum Elite / Local Car",
-      "condition": "used"
+      "model": "MDX",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V Sport-B AWD CVT / Sport-B AWD / No Accident / Loca",
       "vin": "3CZRZ2H51RM101979",
       "stock": "UL26377",
       "color": "Grey",
+      "trim": "Sport-B",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/4d23219e9ccd.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2024/honda/hr-v/north-vancouver/bc/71260000/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2024/honda/hr-v/north-vancouver/bc/71260000/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,8 +158,10 @@
       "odometer_km": 32553,
       "year": 2024,
       "make": "Honda",
-      "model": "HR-V Sport-B AWD CVT / Sport-B AWD / No Accident / Loca",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson Trend AWD The perfect modern crossover. Pristine,",
@@ -156,7 +178,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson Trend AWD The perfect modern crossover. Pristine,",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus NX 350 Just Arrived: One-Owner 2024 NX 350 F Sport Se",
@@ -173,7 +197,9 @@
       "year": 2024,
       "make": "Lexus",
       "model": "NX 350 Just Arrived: One-Owner 2024 NX 350 F Sport Se",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX RX 350h The Pinnacle of Hybrid Luxury: Certified 2",
@@ -190,13 +216,16 @@
       "year": 2024,
       "make": "Lexus",
       "model": "RX RX 350h The Pinnacle of Hybrid Luxury: Certified 2",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Sedan SE CVT One Owner, Flawless Reputation. The Perfect",
       "vin": "5YFB4MBE8RP217196",
       "stock": "UL26585",
       "color": "Black",
+      "trim": "SE One Owner",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/55a7ea02e74f.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2024/toyota/corolla-sedan/north-vancouver/bc/71064544/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2024/toyota/corolla-sedan/north-vancouver/bc/71064544/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +235,17 @@
       "odometer_km": 50183,
       "year": 2024,
       "make": "Toyota",
-      "model": "Corolla Sedan SE CVT One Owner, Flawless Reputation. The Perfect",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus ES 350 Premium",
       "vin": "JTHBGCD17T2001565",
       "stock": "NL26633",
       "color": "Grey",
+      "trim": "350 Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f43aa79a33e8.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/es/north-vancouver/bc/71188558/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/es/north-vancouver/bc/71188558/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +255,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "ES 350 Premium",
-      "condition": "new"
+      "model": "ES",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus ES 350 Premium+",
       "vin": "JTHBGCD15T2005114",
       "stock": "NL26670",
       "color": "White",
+      "trim": "350 Premium+",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/ab25525e402d.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/es/north-vancouver/bc/71400780/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/es/north-vancouver/bc/71400780/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +275,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "ES 350 Premium+",
-      "condition": "new"
+      "model": "ES",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus IS Sedan 350 F SPORT 2",
       "vin": "JTHGZ1E27T5047908",
       "stock": "NL26515",
       "color": "White",
+      "trim": "350 F SPORT 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/8990e688dff8.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/is-sedan/north-vancouver/bc/70537123/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/is-sedan/north-vancouver/bc/70537123/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +295,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "IS Sedan 350 F SPORT 2",
-      "condition": "new"
+      "model": "IS",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Hybrid 350H Executive",
       "vin": "2T2GKCEZXTC082097",
       "stock": "NL26641",
       "color": "White",
+      "trim": "350H Executive",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/4890e9c71c4b.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-hybrid/north-vancouver/bc/71294287/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-hybrid/north-vancouver/bc/71294287/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +315,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Hybrid 350H Executive",
-      "condition": "new"
+      "model": "NX Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Hybrid 350H Premium",
       "vin": "2T2GKCEZ7TC082316",
       "stock": "NL26647",
       "color": "Silver",
+      "trim": "350H Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/58aa11816a5f.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-hybrid/north-vancouver/bc/71327986/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-hybrid/north-vancouver/bc/71327986/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +335,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Hybrid 350H Premium",
-      "condition": "new"
+      "model": "NX Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Hybrid 350H Ultra Luxury",
       "vin": "2T2GKCEZ8TC080848",
       "stock": "NL26665",
       "color": "Silver",
+      "trim": "350H Ultra Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/ec825789a3b5.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-hybrid/north-vancouver/bc/71357003/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-hybrid/north-vancouver/bc/71357003/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +355,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Hybrid 350H Ultra Luxury",
-      "condition": "new"
+      "model": "NX Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Plug-in Hybrid 450H+ Ultra Premium",
       "vin": "JTJHKCFZ1T2101588",
       "stock": "NL26575",
       "color": "Silver",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/d73cf2b627a0.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/70954141/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/70954141/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +375,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Plug-in Hybrid 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "NX Plug-In Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Plug-in Hybrid 450H+ Ultra Premium",
       "vin": "JTJHKCFZ7T2104964",
       "stock": "NL26660",
       "color": "Grey",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/2b46ec2421e9.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71357002/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71357002/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +395,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Plug-in Hybrid 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "NX Plug-In Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Plug-in Hybrid 450H+ Executive",
       "vin": "JTJHKCFZ7T2104382",
       "stock": "NL26653",
       "color": "Green",
+      "trim": "450H+ Executive",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/09a9337a7382.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71357010/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71357010/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +415,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Plug-in Hybrid 450H+ Executive",
-      "condition": "new"
+      "model": "NX Plug-In Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Plug-in Hybrid 450H+ Ultra Premium",
       "vin": "JTJHKCFZ2T2104807",
       "stock": "NL26656",
       "color": "Silver",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f8d46f958732.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71357011/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71357011/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +435,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Plug-in Hybrid 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "NX Plug-In Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX Plug-in Hybrid 450H+ Ultra Premium",
       "vin": "JTJHKCFZ1T2104684",
       "stock": "NL26667",
       "color": "Silver",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/4d14df9b46bc.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71389709/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx-plug-in-hybrid/north-vancouver/bc/71389709/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +455,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX Plug-in Hybrid 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "NX Plug-In Hybrid",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus NX 350 Premium",
       "vin": "2T2GGCEZ9TC130710",
       "stock": "NL26648",
       "color": "White",
+      "trim": "350 Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/c8cbc0dc037d.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx/north-vancouver/bc/71327988/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/nx/north-vancouver/bc/71327988/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +475,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "NX 350 Premium",
-      "condition": "new"
+      "model": "NX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350 Luxury Package",
       "vin": "2T2BAMCA5TC128905",
       "stock": "NL26100",
       "color": "White",
+      "trim": "350 Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f41353c8ee6f.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/68716968/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/68716968/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +495,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350 Luxury Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350 Luxury Package",
       "vin": "2T2BAMCA0TC132957",
       "stock": "NL26170",
       "color": "Black",
+      "trim": "350 Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/15616f8d1ffc.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/69029904/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/69029904/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +515,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350 Luxury Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Luxury Package",
       "vin": "2T2BBMCA6TC131938",
       "stock": "NL26388",
       "color": "Black",
+      "trim": "350H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/675b33dbd823.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70115915/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70115915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +535,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Luxury Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 500H F SPORT PERFORMANCE 3",
       "vin": "2T2BCMEA9TC025610",
       "stock": "NL26425",
       "color": "Black",
+      "trim": "500H F SPORT PERFORMANCE 3",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/af2695a9010c.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70212924/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70212924/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +555,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 500H F SPORT PERFORMANCE 3",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H F SPORT DESIGN",
       "vin": "2T2BBMCA7TC138218",
       "stock": "NL26445",
       "color": "Silver",
+      "trim": "350H F SPORT DESIGN",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/3ec11482b9b5.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70270534/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70270534/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +575,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H F SPORT DESIGN",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Premium Package",
       "vin": "2T2BBMCA7TC140065",
       "stock": "NL26478",
       "color": "White",
+      "trim": "350H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/299323939756.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70420555/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70420555/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +595,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Premium Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Ultra Luxury",
       "vin": "2T2BBMCA2TC140653",
       "stock": "NL26479",
       "color": "Black",
+      "trim": "350H Ultra Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/5c06d716f878.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70420558/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70420558/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +615,17 @@
       "odometer_km": 1600,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Ultra Luxury",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Executive Package",
       "vin": "2T2BBMCA9TC141010",
       "stock": "NL26493",
       "color": "Grey",
+      "trim": "350H Executive Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/e1e430972170.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70445039/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70445039/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +635,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Executive Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Ultra Luxury",
       "vin": "2T2BBMCA3TC141679",
       "stock": "NL26511",
       "color": "White",
+      "trim": "350H Ultra Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/71c0d27e2ee4.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70538398/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70538398/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +655,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Ultra Luxury",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Premium Package",
       "vin": "2T2BBMCA2TC141608",
       "stock": "NL26513",
       "color": "Black",
+      "trim": "350H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/729499c53cc1.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70538403/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70538403/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +675,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Premium Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Premium Package",
       "vin": "2T2BBMCA1TC142202",
       "stock": "NL26521",
       "color": "Black",
+      "trim": "350H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/e3c5cfc66c85.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70589874/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70589874/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +695,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Premium Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Executive Package",
       "vin": "2T2BBMCA1TC144029",
       "stock": "NL26532",
       "color": "White",
+      "trim": "350H Executive Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/1a1664f554bf.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70678926/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70678926/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +715,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Executive Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Ultra Luxury",
       "vin": "2T2BBMCA3TC146459",
       "stock": "NL26568",
       "color": "White",
+      "trim": "350H Ultra Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/faf238c580bb.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70884375/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/70884375/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +735,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Ultra Luxury",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 500H F SPORT Black Line",
       "vin": "2T2BCMEA1TC026590",
       "stock": "NL26618",
       "color": "Black",
+      "trim": "500H F SPORT Black Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/15bca57503f7.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71129736/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71129736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +755,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 500H F SPORT Black Line",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Luxury Package",
       "vin": "2T2BBMCA4TC150097",
       "stock": "NL26615",
       "color": "Grey",
+      "trim": "350H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/8e6fca6740b5.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71130891/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71130891/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +775,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Luxury Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 500H F SPORT Black Line",
       "vin": "2T2BCMEA6TC026701",
       "stock": "NL26639",
       "color": "White",
+      "trim": "500H F SPORT Black Line",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/c626a6ebcef3.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71278414/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71278414/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +795,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 500H F SPORT Black Line",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 350H Ultra Luxury",
       "vin": "2T2BBMCA2TC151877",
       "stock": "NL26638",
       "color": "Grey",
+      "trim": "350H Ultra Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/091056063b8b.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71278415/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71278415/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +815,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 350H Ultra Luxury",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 450H+ Ultra Premium",
       "vin": "JTJCJMGA7T2051338",
       "stock": "NL26643",
       "color": "Black",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/75e07ad277bb.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71294290/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71294290/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +835,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 450H+ Ultra Premium",
       "vin": "JTJCJMGA3T2051160",
       "stock": "NL26640",
       "color": "White",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/e69e3692d191.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71294291/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71294291/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +855,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 450H+ Ultra Premium",
       "vin": "JTJCJMGA0T2051648",
       "stock": "NL26663",
       "color": "White",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f0fabba48ffd.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71357009/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71357009/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +875,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 450H+ Ultra Premium",
       "vin": "JTJCJMGA2T2051375",
       "stock": "NL26662",
       "color": "Silver",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/bcad374b3c54.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71357012/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71357012/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +895,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 450H+ Executive Package",
       "vin": "JTJCJMGA5T2051306",
       "stock": "NL26669",
       "color": "Green",
+      "trim": "450H+ Executive Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/4a80f54aa3f8.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71389706/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71389706/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +915,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 450H+ Executive Package",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX 450H+ Ultra Premium",
       "vin": "JTJCJMGA9T2051521",
       "stock": "NL26671",
       "color": "Silver",
+      "trim": "450H+ Ultra Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/e28d52bb9ff6.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71400781/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rx/north-vancouver/bc/71400781/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +935,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Lexus",
-      "model": "RX 450H+ Ultra Premium",
-      "condition": "new"
+      "model": "RX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RZ 550E F SPORT",
       "vin": "JTJBCACB8TA002514",
       "stock": "NL26181",
       "color": "White",
+      "trim": "550E F SPORT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/d2f4b4a24972.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/69050241/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/69050241/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +955,17 @@
       "odometer_km": 4500,
       "year": 2026,
       "make": "Lexus",
-      "model": "RZ 550E F SPORT",
-      "condition": "new"
+      "model": "RZ",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RZ 450E Luxury",
       "vin": "JTJBCACB6TA008263",
       "stock": "NL26552",
       "color": "Grey",
+      "trim": "450E Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/5aa622a0e7da.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/70770935/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/70770935/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +975,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "RZ 450E Luxury",
-      "condition": "new"
+      "model": "RZ",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 350 Executive Package (7P)",
       "vin": "5TDAAAB60TS065411",
       "stock": "NL26299",
       "color": "Grey",
+      "trim": "350 Executive Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/bcc7b46687d4.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/69636641/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/69636641/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +995,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 350 Executive Package (7P)",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 350 Luxury Package",
       "vin": "5TDAAAB60TS082886",
       "stock": "NL26547",
       "color": "Silver",
+      "trim": "350 Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/57a1106f0881.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/70746423/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/70746423/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1015,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 350 Luxury Package",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 500H F SPORT PERFORMANCE 2",
       "vin": "5TDABAB60TS027027",
       "stock": "NL26564",
       "color": "White",
+      "trim": "500H F SPORT PERFORMANCE 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/da07337601cd.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/70848039/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/70848039/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1035,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 500H F SPORT PERFORMANCE 2",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 350 Luxury Package",
       "vin": "5TDAAAB65TS088005",
       "stock": "NL26586",
       "color": "White",
+      "trim": "350 Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/ba637f6405f3.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71053563/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71053563/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,14 +1055,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 350 Luxury Package",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 350 Ultra Luxury",
       "vin": "5TDAAAB61TS087532",
       "stock": "NL26597",
       "color": "Blue",
+      "trim": "350 Ultra Luxury",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/e3f4a9536eca.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71053577/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71053577/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -920,14 +1075,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 350 Ultra Luxury",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 350 Executive Package (7P)",
       "vin": "5TDAAAB62TS090438",
       "stock": "NL26634",
       "color": "Blue",
+      "trim": "350 Executive Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/85fc6c2e5f4f.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71229239/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71229239/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1095,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 350 Executive Package (7P)",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus TX 500H F SPORT PERFORMANCE 3",
       "vin": "5TDABAB60TS028677",
       "stock": "NL26664",
       "color": "Black",
+      "trim": "500H F SPORT PERFORMANCE 3",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/6e3983ad9b04.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71357013/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/tx/north-vancouver/bc/71357013/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1115,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "TX 500H F SPORT PERFORMANCE 3",
-      "condition": "new"
+      "model": "TX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH7T2015018",
       "stock": "NL26235",
       "color": "Grey",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/baaf370ac9df.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/69363149/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/69363149/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1135,17 @@
       "odometer_km": 61,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH1T2017783",
       "stock": "NL26380",
       "color": "Silver",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/2b4def8f3bd3.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70064519/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70064519/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1155,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT 2",
       "vin": "JTHUCJDH5T2019133",
       "stock": "NL26524",
       "color": "White",
+      "trim": "300H F SPORT 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/c9ffd7380ad5.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70608344/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70608344/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1175,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT 2",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH4T2019401",
       "stock": "NL26539",
       "color": "Grey",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/300be0c53274.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70678923/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70678923/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1195,17 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH1T2019629",
       "stock": "NL26556",
       "color": "Grey",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/5025f68d2031.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70796842/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70796842/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,14 +1215,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH7T2019649",
       "stock": "NL26559",
       "color": "Silver",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/2f7a5765328b.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70796844/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70796844/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1235,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH7T2020090",
       "stock": "NL26584",
       "color": "White",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/379dc37fba2f.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70994421/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/70994421/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1255,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH9T2020351",
       "stock": "NL26598",
       "color": "White",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/7109377801de.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053547/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053547/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,14 +1275,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH6T2020436",
       "stock": "NL26602",
       "color": "Silver",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/046a52d9bc69.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053549/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053549/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1107,14 +1295,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH0T2020416",
       "stock": "NL26595",
       "color": "Grey",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/c1c92b166da9.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053558/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053558/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1315,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH2T2020238",
       "stock": "NL26596",
       "color": "Black",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/596c3f70f033.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053560/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053560/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1335,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH6T2020422",
       "stock": "NL26594",
       "color": "Silver",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/a8db16c161c5.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053582/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71053582/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1355,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH0T2020352",
       "stock": "NL26611",
       "color": "Green",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/461ca0cf9da8.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71116075/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71116075/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1375,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDHXT2020908",
       "stock": "NL26612",
       "color": "Silver",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f143a6da2a08.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71129733/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71129733/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,14 +1395,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH4T2020662",
       "stock": "NL26617",
       "color": "Silver",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/8730256fbcc3.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71130893/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71130893/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1415,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH1T2020652",
       "stock": "NL26619",
       "color": "Silver",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/a3d776e6d378.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71141956/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71141956/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1435,17 @@
       "odometer_km": 55,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH5T2020914",
       "stock": "NL26626",
       "color": "Grey",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/1cafe8d35a1e.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71145320/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71145320/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,14 +1455,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH8T2020700",
       "stock": "NL26620",
       "color": "Black",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/6eeb0c264491.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71145321/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71145321/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,14 +1475,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT 2",
       "vin": "JTHUCJDHXT2020648",
       "stock": "NL26622",
       "color": "Silver",
+      "trim": "300H F SPORT 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/0a570dc2a581.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71156003/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71156003/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1495,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT 2",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDHXT2020780",
       "stock": "NL26627",
       "color": "Silver",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/3d96c7752389.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71156005/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71156005/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1515,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT DESIGN",
       "vin": "JTHUCJDH1T2020585",
       "stock": "NL26631",
       "color": "White",
+      "trim": "300H F SPORT DESIGN",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/4fb8f31e9419.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71174675/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71174675/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1535,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT DESIGN",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH1T2020943",
       "stock": "NL26646",
       "color": "Silver",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/2e2f52b1af16.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71294286/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71294286/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1555,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT 2",
       "vin": "JTHUCJDH4T2021102",
       "stock": "NL26649",
       "color": "White",
+      "trim": "300H F SPORT 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f61629824adc.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71327987/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71327987/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1575,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT 2",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH3T2021088",
       "stock": "NL26652",
       "color": "Black",
+      "trim": "300H Premium Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/5a5a0385ef36.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71356999/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71356999/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1595,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Premium Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH7T2021272",
       "stock": "NL26661",
       "color": "Black",
+      "trim": "300H Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/dc242973dcca.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71357001/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71357001/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1615,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H Luxury Package",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT 2",
       "vin": "JTHUCJDH9T2021239",
       "stock": "NL26659",
       "color": "Grey",
+      "trim": "300H F SPORT 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/92e4a0538c2c.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71357005/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71357005/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1635,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT 2",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT DESIGN",
       "vin": "JTHUCJDH0T2021114",
       "stock": "NL26658",
       "color": "White",
+      "trim": "300H F SPORT DESIGN",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/a516171cb736.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71357008/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71357008/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1655,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT DESIGN",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus UX 300H F SPORT 2",
       "vin": "JTHUCJDH0T2021503",
       "stock": "NL26672",
       "color": "Silver",
+      "trim": "300H F SPORT 2",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/e6562ecebd1e.html",
       "source_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71400782/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/ux/north-vancouver/bc/71400782/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,8 +1675,10 @@
       "odometer_km": 2,
       "year": 2026,
       "make": "Lexus",
-      "model": "UX 300H F SPORT 2",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     }
   ]
 }
