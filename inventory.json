@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Lexus Northshore",
-  "generated_at": "2026-10-25T19:18:01",
-  "vehicle_count": 80,
+  "generated_at": "2026-10-25T19:24:51",
+  "vehicle_count": 78,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -556,17 +556,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Lexus TX 500H F SPORT PERFORMANCE 3",
-      "vin": "5TDABAB65TS030053",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/380ee90533bd.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "TX",
-      "condition": "new",
-      "price": 93384.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Lexus UX 300H Luxury Package",
       "vin": "JTHUCJDH1T2017783",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/2b4def8f3bd3.html",
@@ -586,17 +575,6 @@
       "model": "UX",
       "condition": "new",
       "price": 56477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus UX 300H Premium Package",
-      "vin": "JTHUCJDH4T2019401",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/300be0c53274.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "new",
-      "price": 48738.0,
       "price_currency": "CAD"
     },
     {
