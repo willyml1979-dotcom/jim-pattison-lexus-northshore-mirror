@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Lexus Northshore",
-  "generated_at": "2026-11-16T23:08:54",
-  "vehicle_count": 82,
+  "generated_at": "2026-11-17T20:35:28",
+  "vehicle_count": 79,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -424,17 +424,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Lexus RX 450H+ Ultra Premium",
-      "vin": "JTJCJMGA0T2051648",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/f0fabba48ffd.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "new",
-      "price": 82188.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Lexus RX 350 Ultra Luxury",
       "vin": "2T2BAMCA1TC164896",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/0b401cb84dd4.html",
@@ -567,17 +556,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Lexus UX 300H Luxury Package",
-      "vin": "JTHUCJDH9T2020351",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/7109377801de.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "new",
-      "price": 54202.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Lexus UX 300H Premium Package",
       "vin": "JTHUCJDH6T2020436",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/046a52d9bc69.html",
@@ -674,17 +652,6 @@
       "model": "UX",
       "condition": "new",
       "price": 56477.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus UX 300H F SPORT DESIGN",
-      "vin": "JTHUCJDH1T2020585",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/4fb8f31e9419.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "new",
-      "price": 49808.0,
       "price_currency": "CAD"
     },
     {
