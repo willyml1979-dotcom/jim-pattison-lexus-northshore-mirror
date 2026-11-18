@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Lexus Northshore",
-  "generated_at": "2026-11-18T05:58:43",
-  "vehicle_count": 79,
+  "generated_at": "2026-11-18T14:20:57",
+  "vehicle_count": 78,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -828,17 +828,6 @@
       "model": "ES",
       "condition": "new",
       "price": 69388.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Lexus GX 550 Premium",
-      "vin": "JTJTBCDX7V5107957",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/new/1abb381638d9.html",
-      "year": 2027,
-      "make": "Lexus",
-      "model": "GX",
-      "condition": "new",
-      "price": 99903.0,
       "price_currency": "CAD"
     },
     {

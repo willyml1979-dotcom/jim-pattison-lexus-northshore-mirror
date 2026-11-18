@@ -1,6 +1,6 @@
 # Jim Pattison Lexus - Northshore
 
- dealership in North Vancouver. AI-readable inventory mirror, about 79 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 78 vehicles.
 
 - Official website: https://www.jimpattisonlexus.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jim-pattison-lexus-northshore-mirror/used/
